@@ -286,10 +286,10 @@
             "decoration": {
                 "clock": false,
                 "dot": false,
-                "driver": "open_emitter",
+                "driver": "default",
                 "schmitt": false
             },
-            "length": 2500000,
+            "length": 2400000,
             "name_orientation": "in_line",
             "name_visible": false,
             "orientation": "down",
