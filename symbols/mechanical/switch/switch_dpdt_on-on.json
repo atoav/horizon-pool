@@ -615,7 +615,7 @@
                 ]
             },
             "e5ea95ae-a9d2-4ae1-8ff7-6224f7c573bc": {
-                "angle": 16384,
+                "angle": 49152,
                 "mirror": true,
                 "shift": [
                     1250000,
@@ -633,7 +633,7 @@
                 ]
             },
             "e5ea95ae-a9d2-4ae1-8ff7-6224f7c573bc": {
-                "angle": 16384,
+                "angle": 49152,
                 "mirror": true,
                 "shift": [
                     1250000,
@@ -716,5 +716,6 @@
     },
     "type": "symbol",
     "unit": "1af0eca2-7745-4c5a-9ba7-9c32b641f667",
-    "uuid": "ddb67165-aa91-43b5-a7c6-6136b7212151"
+    "uuid": "ddb67165-aa91-43b5-a7c6-6136b7212151",
+    "version": 1
 }
