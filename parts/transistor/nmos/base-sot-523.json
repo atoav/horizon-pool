@@ -9,9 +9,14 @@
     ],
     "description": [
         false,
-        "N-channel MOSFET, sot-523 (Base Part)"
+        "base N-channel MOSFET, SOT-523"
     ],
     "entity": "c135130c-0663-4575-9083-3b328ac00c90",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
     "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
@@ -39,12 +44,13 @@
         "mosfet",
         "n-channel",
         "smd",
-        "sot-523"
+        "transistor"
     ],
     "type": "part",
     "uuid": "0d0603aa-0149-4343-b4e6-1ac0fd661c0e",
     "value": [
         false,
         ""
-    ]
+    ],
+    "version": 1
 }
