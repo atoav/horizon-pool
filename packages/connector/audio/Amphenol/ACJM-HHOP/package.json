@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "144b074b-581a-415a-baac-a3cf9e5f4e2e",
+    "default_model": "df183fe9-88b5-454d-9ec6-a2d8e41b72e8",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -14,7 +14,7 @@
                 1000000,
                 1000000
             ],
-            "spacing_square": 1250000
+            "spacing_square": 1000000
         },
         "grids": {}
     },
@@ -511,8 +511,8 @@
     },
     "manufacturer": "Amphenol Audio",
     "models": {
-        "144b074b-581a-415a-baac-a3cf9e5f4e2e": {
-            "filename": "3d_models/connector/audio/ACJS-HHOP.step",
+        "df183fe9-88b5-454d-9ec6-a2d8e41b72e8": {
+            "filename": "3d_models/connector/audio/ACJM-HHOP.step",
             "pitch": 49152,
             "roll": 32768,
             "x": 0,
@@ -521,7 +521,7 @@
             "z": 5300000
         }
     },
-    "name": "ACJS-HHOP",
+    "name": "ACJM-HHOP",
     "pads": {
         "1c7e548a-ac0d-4709-ad2f-1368de036fcc": {
             "name": "8",
@@ -534,22 +534,6 @@
                 "mirror": false,
                 "shift": [
                     -7450000,
-                    7230000
-                ]
-            }
-        },
-        "55fc3314-3697-42c4-bfe8-e9d3d894c233": {
-            "name": "RING",
-            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
-            "parameter_set": {
-                "hole_diameter": 1600000,
-                "pad_diameter": 2000000
-            },
-            "placement": {
-                "angle": 0,
-                "mirror": false,
-                "shift": [
-                    -10600000,
                     7230000
                 ]
             }
@@ -581,22 +565,6 @@
                 "mirror": false,
                 "shift": [
                     -16950000,
-                    -4200000
-                ]
-            }
-        },
-        "979cc35d-dafd-47a0-8a88-884ded30fa76": {
-            "name": "SWRING",
-            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
-            "parameter_set": {
-                "hole_diameter": 1600000,
-                "pad_diameter": 2000000
-            },
-            "placement": {
-                "angle": 0,
-                "mirror": false,
-                "shift": [
-                    -10600000,
                     -4200000
                 ]
             }
@@ -1618,8 +1586,8 @@
         "6.3mm",
         "connector",
         "jack",
+        "mono",
         "phone",
-        "stereo",
         "switched"
     ],
     "texts": {
@@ -1659,5 +1627,5 @@
         }
     },
     "type": "package",
-    "uuid": "542c4d12-5027-4c4d-95b6-53cfe201f5ee"
+    "uuid": "36cf21a1-f668-4aad-931d-b6d7eb8db211"
 }
