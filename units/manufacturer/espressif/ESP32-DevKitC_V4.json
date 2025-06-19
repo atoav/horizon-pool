@@ -228,7 +228,7 @@
                 },
                 "8e400923-6159-48d0-894d-aea69c1b056f": {
                     "direction": "input",
-                    "name": "ADC2_CH7CH9"
+                    "name": "ADC2_CH7"
                 }
             },
             "direction": "bidirectional",
