@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "IRFZ44N"
+    ],
+    "datasheet": [
+        false,
+        "https://www.infineon.com/assets/row/public/documents/24/49/infineon-irfz44n-datasheet-en.pdf?fileId=5546d462533600a40153563b3a9f220d"
+    ],
+    "description": [
+        false,
+        "55V Single N-Channel Power MOSFET 49A 20V"
+    ],
+    "entity": "c135130c-0663-4575-9083-3b328ac00c90",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Infineon Technologies"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "347de8e7-777a-4cc2-917a-658017704f4b": "IRFZ44NPbF"
+    },
+    "package": "fbc4ce77-77fc-4502-b21d-776ed4cfdb0f",
+    "pad_map": {
+        "0cb3e1fc-ce2f-4b8d-b895-5ee2bdb05820": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "76dd96c5-c50f-4e05-bc6d-1d69379171d6": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "ae8d0bb7-d07e-4558-a1f9-9ce749b6ea2b": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet",
+        "n-channel",
+        "power",
+        "th",
+        "to-220"
+    ],
+    "type": "part",
+    "uuid": "46ac19f1-1c0f-4968-a391-1f2b8aa46b18",
+    "value": [
+        false,
+        ""
+    ]
+}
