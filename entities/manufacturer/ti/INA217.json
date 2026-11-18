@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "db9cbff4-b8dc-4eec-90da-071532724624": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "32ffc89e-8955-456a-9a98-dd84ca6a5627"
+        }
+    },
+    "manufacturer": "Tex",
+    "name": "INA217",
+    "prefix": "U",
+    "tags": [
+        "instrumentation-amplifier"
+    ],
+    "type": "entity",
+    "uuid": "3c180cf8-50e5-44f3-aa1b-987cd31a839e"
+}

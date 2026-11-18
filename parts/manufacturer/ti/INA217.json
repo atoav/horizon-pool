@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "INA217"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/ina217.pdf?ts=1795007218174&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA217"
+    ],
+    "description": [
+        false,
+        "Low-Noise, Low-Distortion Instrumentation Amplifier"
+    ],
+    "entity": "3c180cf8-50e5-44f3-aa1b-987cd31a839e",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "b7d697d5-68f1-4503-a040-c3f67d548b29",
+    "package": "d39137d0-f433-40ab-872c-263c701420b0",
+    "pad_map": {
+        "17f96b52-6224-4156-a2c9-3b4c292bf3ab": {
+            "gate": "db9cbff4-b8dc-4eec-90da-071532724624",
+            "pin": "34e73a68-8815-416b-9802-c6a4e9e7b146"
+        },
+        "49b2ec1d-bc9c-4e02-938e-5853ed60855c": {
+            "gate": "db9cbff4-b8dc-4eec-90da-071532724624",
+            "pin": "c7eda74a-525a-41db-b256-4f09c3fafe87"
+        },
+        "4f957a10-9981-4100-ae71-aeff3c5066d1": {
+            "gate": "db9cbff4-b8dc-4eec-90da-071532724624",
+            "pin": "4efe2c96-9e00-4121-a8ac-7d8498ccfd2e"
+        },
+        "69825f2f-88b4-4724-8e7c-f72589e2c0c7": {
+            "gate": "db9cbff4-b8dc-4eec-90da-071532724624",
+            "pin": "88dcbc6f-c1f0-4488-b9cb-7ea306da431d"
+        },
+        "74fe94c2-657f-4184-b5fe-e70be607ce0d": {
+            "gate": "db9cbff4-b8dc-4eec-90da-071532724624",
+            "pin": "e098020b-2820-4ae8-bd56-ac5dfd88de9f"
+        },
+        "7f96be97-4c27-449b-85d4-982e9acc4e0f": {
+            "gate": "db9cbff4-b8dc-4eec-90da-071532724624",
+            "pin": "c1417c73-d26a-44f7-972f-567b4e992f9c"
+        },
+        "82c78305-002b-487c-b1b6-b33435718f8e": {
+            "gate": "db9cbff4-b8dc-4eec-90da-071532724624",
+            "pin": "4d2d7c22-22bb-4ff7-8d94-bf2e37d70520"
+        },
+        "ef232360-f78f-4226-921e-ec90c9f38e0a": {
+            "gate": "db9cbff4-b8dc-4eec-90da-071532724624",
+            "pin": "ba628be5-2062-49a3-b4d4-b952cacf32bc"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "audio",
+        "dip-8",
+        "ic",
+        "instrumentation-amplifier",
+        "th"
+    ],
+    "type": "part",
+    "uuid": "4c75e482-10c3-4963-a0a5-8537d274e64e",
+    "value": [
+        false,
+        ""
+    ]
+}
