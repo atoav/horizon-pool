@@ -440,7 +440,7 @@
             "name_orientation": "in_line",
             "name_visible": false,
             "orientation": "right",
-            "pad_visible": false,
+            "pad_visible": true,
             "position": [
                 8750000,
                 7500000
@@ -457,7 +457,7 @@
             "name_orientation": "in_line",
             "name_visible": false,
             "orientation": "right",
-            "pad_visible": false,
+            "pad_visible": true,
             "position": [
                 8750000,
                 -7500000
@@ -474,7 +474,7 @@
             "name_orientation": "in_line",
             "name_visible": false,
             "orientation": "left",
-            "pad_visible": false,
+            "pad_visible": true,
             "position": [
                 -8750000,
                 -3750000
@@ -491,7 +491,7 @@
             "name_orientation": "in_line",
             "name_visible": false,
             "orientation": "left",
-            "pad_visible": false,
+            "pad_visible": true,
             "position": [
                 -8750000,
                 3750000
@@ -508,7 +508,7 @@
             "name_orientation": "in_line",
             "name_visible": true,
             "orientation": "right",
-            "pad_visible": false,
+            "pad_visible": true,
             "position": [
                 8750000,
                 0
