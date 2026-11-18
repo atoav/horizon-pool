@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "H11LxM"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/download/data-sheet/pdf/h11l3m-d.pdf"
+    ],
+    "description": [
+        false,
+        "Schmitt Trigger Output Optocoupler 1MHz"
+    ],
+    "entity": "15615ddf-754e-4245-9be4-d533c490cb0d",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "8b30bf0f-feb7-4ed7-8b62-3799a11f72bd",
+    "orderable_MPNs": {
+        "7468d478-7e7f-4601-ae2c-f4b073d3e8b1": "H11L3M",
+        "cab9396d-4307-4662-9c63-d494816472d0": "H11L2M",
+        "edf8defa-de62-4585-a022-fa7adcb6bb90": "H11L1M"
+    },
+    "package": "e887a48c-a085-4ae6-aa85-a06ea15064bc",
+    "pad_map": {
+        "17f96b52-6224-4156-a2c9-3b4c292bf3ab": {
+            "gate": "89e88d73-e4fd-40ef-8e9e-039bf5c5955e",
+            "pin": "49aea420-016d-4ba2-9451-5996acefec56"
+        },
+        "49b2ec1d-bc9c-4e02-938e-5853ed60855c": {
+            "gate": "89e88d73-e4fd-40ef-8e9e-039bf5c5955e",
+            "pin": "a1754538-4d10-4c86-a7a0-7c17d15ba7e8"
+        },
+        "4f957a10-9981-4100-ae71-aeff3c5066d1": {
+            "gate": "89e88d73-e4fd-40ef-8e9e-039bf5c5955e",
+            "pin": "5172e1fe-e3f0-43e0-9863-465c59f46ab7"
+        },
+        "7f96be97-4c27-449b-85d4-982e9acc4e0f": {
+            "gate": "89e88d73-e4fd-40ef-8e9e-039bf5c5955e",
+            "pin": "eb95c13b-a98b-4c96-a957-1ef2aeeddf83"
+        },
+        "82c78305-002b-487c-b1b6-b33435718f8e": {
+            "gate": "89e88d73-e4fd-40ef-8e9e-039bf5c5955e",
+            "pin": "ab389406-1038-4eca-b2eb-9052ac95bae2"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dip-6",
+        "ic",
+        "inverter",
+        "optocoupler",
+        "optoisolator",
+        "schmitt-trigger"
+    ],
+    "type": "part",
+    "uuid": "bf93fa92-272f-41bc-b5ea-702ce089f425",
+    "value": [
+        false,
+        ""
+    ]
+}

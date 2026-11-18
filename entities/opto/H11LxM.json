@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "89e88d73-e4fd-40ef-8e9e-039bf5c5955e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a2a2f499-9f5d-4631-9db2-d4c9a7a01f98"
+        }
+    },
+    "manufacturer": "ON Semiconductor",
+    "name": "H11LxM",
+    "prefix": "U",
+    "tags": [
+        "inverter",
+        "opto-isolator",
+        "optocoupler",
+        "schmitt-trigger"
+    ],
+    "type": "entity",
+    "uuid": "15615ddf-754e-4245-9be4-d533c490cb0d"
+}
